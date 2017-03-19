@@ -1,4 +1,4 @@
-# vui-request
+# vui-request-parsing-alexa
 
 npm module that provides VUI (voice user interface) Alexa request parsing
 function for inclusion into other vui-xxx project that use vui-request.

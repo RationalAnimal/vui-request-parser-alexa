@@ -1,6 +1,6 @@
 {
   "name": "vui-request-parsing-alexa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "npm module that provides alexa request parsing function for inclusion into other vui-xxx projects.",
   "main": "index.js",
   "scripts": {
