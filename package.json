@@ -1,0 +1,33 @@
+{
+  "name": "vui-request-parsing-alexa",
+  "version": "0.0.1",
+  "description": "npm module that provides alexa request parsing function for inclusion into other vui-xxx projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "author": "Ilya Shubentsov",
+  "copyright": "Copyright 2017 Ilya Shubentsov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RationalAnimal/vui-request-parsing-alexa"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0"
+  },
+  "keywords": [
+    "vui",
+    "alexa",
+    "request"
+  ],
+  "dependencies": {
+    "vui-platforms": "^1.0.5",
+    "vui-request": "^0.3.0",
+    "vui-session": "^1.1.0",
+    "vui-state": "^1.0.6"
+  }
+}
